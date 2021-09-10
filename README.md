@@ -1,20 +1,20 @@
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 ### Hi there 👋
 
-### <div align="center">My name is Guillermo Agustín Borquez and I'm Full Stack Developer 🚀</div>  
+### <div align="center">My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
 
   
 
 - 🔭 I’m currently working on my final project to finish Henry Bootcamp.  
   
 
-- 🌱 I’m currently learning Typescript and MongoDB.  
+- 🌱 I’m currently learning Typescript and PostgreSQL.  
   
 
 - 🧠 I'm currently interested on start working in the industry.  
   
 
-- ✉️ How to reach me  on Email at [Agustín Borquez](mailto:agustinborquez1999@hotmail.com)  
+- ✉️ How to reach me  on Email at [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  
   
 <br/>
 
