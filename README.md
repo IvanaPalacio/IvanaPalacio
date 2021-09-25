@@ -1,7 +1,7 @@
 ![](https://github.com/IvanaPalacio/Portfolio-React-Ivana/blob/main/src/media/coverVideo.mp4)
 ### Hi there 👋
 
-### <div align="center">My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
+### <div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
 
   
 
