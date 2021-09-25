@@ -1,4 +1,4 @@
-![](https://github.com/IvanaPalacio/Portfolio-React-Ivana/blob/main/src/media/coverVideo.mp4)
+![](<iframe src="https://assets.pinterest.com/ext/embed.html?id=187532771971616399" height="354" width="450" frameborder="0" scrolling="no" ></iframe>)
 ### Hi there 👋
 
 ### <div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
