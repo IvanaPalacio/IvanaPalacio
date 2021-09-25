@@ -6,13 +6,13 @@
 
   
 
-- 🔭 I’m currently working on my final project to finish Henry Bootcamp.  
+- 🔭 I'm currently working on my individual project Henry's bootcamp. 
   
 
-- 🌱 I’m currently learning Typescript and PostgreSQL.  
+- 🌱 I am learning PostgreSQL, I will focus on that fundamentally this week.  
   
 
-- 🧠 I'm currently interested on start working in the industry.  
+- 🧠 I'm interested in adding value to a company, sharing and acquiring knowledge on a daily basis, and advancing in this beautiful IT community.
   
 
 - ✉️ How to reach me  on Email at [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  
