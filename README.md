@@ -19,21 +19,6 @@
   
 <br/>
 
-<h2>My Skills</h2>
-
-<div align="center">
-<img src="skills.png" align="center" style="width: 60%" "height : 50%" />
-</div>
-
-<br/>  
- <h2>My Soft-Skills</h2>
-
-<div align="center">
-<img src="softSkills.png" align="center" style="width: 60%" "height : 50%" />
-</div>
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/IvanaPalacio" target="_blank">
