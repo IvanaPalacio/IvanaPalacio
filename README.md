@@ -1,10 +1,10 @@
 
-![¡welcome to my profile! (5)](https://user-images.githubusercontent.com/70310363/134756544-4f02df0e-f867-44e7-b4bf-858b326f603f.gif)
+![¡welcome to my profile! (5)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FA5UZ&psig=AOvVaw1Xn8MpjTxALKmUUvVtLhjq&ust=1642870588610000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCkyYSow_UCFQAAAAAdAAAAABA7)
 ### Hello 👋
 
 #####<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
 
-  
+  //https://user-images.githubusercontent.com/70310363/134756544-4f02df0e-f867-44e7-b4bf-858b326f603f.gif
 
 - 🔭 I'm currently working on my individual project Henry's bootcamp. 
    
