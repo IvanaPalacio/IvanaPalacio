@@ -1,5 +1,5 @@
 
-![¡welcome to my profile! (5)][(https://i.postimg.cc/3RwDsXcF/Timmerman-gaming-2.png)](https://postimg.cc/CZW1DqYR)
+![¡welcome to my profile! (5)]([(https://i.postimg.cc/3RwDsXcF/Timmerman-gaming-2.png)](https://postimg.cc/CZW1DqYR))
 ### Hello 👋
 
 #####<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>    
