@@ -1,15 +1,8 @@
 
-![¡welcome to my profile! (5)](https://i.postimg.cc/ZqLV4LK9/Timmerman-gaming.png)](https://postimg.cc/3ydgZmG7)
+![¡welcome to my profile! (5)](https://i.postimg.cc/CMCPNSVC/Timmerman-gaming-1.png)](https://postimg.cc/SjsfQ0Rj)
 ### Hello 👋
 
-#####<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>  
-
-
-- 🔭 I'm currently working on my individual project Henry's bootcamp. 
-   
-
-- 🧠 I'm interested in adding value to a company, sharing and acquiring knowledge on a daily basis, and advancing in this beautiful IT community.
-  
+#####<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>    
 
 - ✉️ How to reach me  on Email at [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  
   
