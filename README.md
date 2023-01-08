@@ -1,8 +1,9 @@
+<img src= "https://i.postimg.cc/3RwDsXcF/Timmerman-gaming-2.png" align="center"/> 
+Hello 👋
 
-![¡welcome to my profile! (5)]([(https://i.postimg.cc/3RwDsXcF/Timmerman-gaming-2.png)](https://postimg.cc/CZW1DqYR))
-### Hello 👋
+###
 
-#####<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>    
+<div> My name is Ivana Palacio and I'm Full Stack Developer 🚀</div>    
 
 - ✉️ How to reach me  on Email at [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  
   
