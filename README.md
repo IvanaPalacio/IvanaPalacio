@@ -1,9 +1,9 @@
 <img src= "https://i.postimg.cc/3RwDsXcF/Timmerman-gaming-2.png" align="center"/> 
-Hello 👋
 
-###
 
 <div> My name is Ivana and I'm Full Stack Developer 🚀</div>    
+
+###
 
 - 🔭 I specialize in Backend
 - 🌱 I am learning to improve my English speaking, little by little every day :)
