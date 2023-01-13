@@ -7,9 +7,7 @@
 
 - 🔭 I specialize in Backend
 - 🌱 I am learning to improve my English speaking, little by little every day :)
-- ✉️ How to reach me on Email at [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  
-or <div align="center">
-</a>
+- ✉️ How to reach me? on email: [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  or <div align="center"></a>
 <a href="https://www.linkedin.com/in/ivanapalacio/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
