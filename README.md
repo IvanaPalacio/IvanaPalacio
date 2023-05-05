@@ -5,7 +5,7 @@
 
 ###
 
-- 🔭 I specialize in Backend
+- 🔭 I specialize in Backend area and I'm preparing to get my first AWS (Amazon Web Services) certification
 - 🌱 I am learning to improve my English speaking, little by little every day :)
 - ✉️ How to reach me? on email: [Ivana Palacio](mailto:ivanapalacioo@gmail.com)  or <div align="center"></a>
 <a href="https://www.linkedin.com/in/ivanapalacio/" target="_blank">
